@@ -1,0 +1,83 @@
+body {
+	background-color: #BEE3DB;
+	color:#068977;
+	font-family: Arial;
+}
+
+h1 {
+	color: #1C5253;
+	font-size: 60px;
+	font-family:'Rajdhani', sans-serif;
+	border: 4px rgba(200,200s,0.7);
+	border border-style: double;
+	border-radius: 50px;
+}
+
+
+h2 {
+	color:#2A4849;
+	font-size: 35px ;
+	font-family:'Rajdhani', sans-serif;	border: 4px rgba(200,200s,0.7);
+	border border-style: double;
+	border-radius: 50px;
+
+}
+
+p {
+	color: #1C5253;
+	font-size: 30px;
+	font-family:'Rajdhani', sans-serif;
+	border: 4px rgba(200,200s,0.7);
+	border border-style: double;
+	border-radius: 50px;}
+
+.card {
+	text-align: center;
+	box-shadow: 2px 2px 2px rgba(40, 40, 40);
+	height: 300px
+	width: 300px;
+	margin: 10px;
+}
+
+#banner {
+	text-align: center;
+	width: 100vw
+
+
+}
+
+#big {
+	image-rendering: center;
+	height: 300px;
+	width: 600px;
+
+}
+
+#big1 {
+	height: 300px;
+	width: 600px;
+}
+
+.fab {
+ color:#1C5253;
+ font-size: 100px;
+}
+
+.flexGrid {
+	text-align: center;
+	width: 100vw;
+}
+
+a {
+	color: black ;
+}
+
+a:hover {
+	color: #BEE3DB;
+}
+
+.card h2 {
+	text align: center;
+	box-shadow: 2px 2px 2px rgba(40, 40, 40, 0.5);
+
+}
